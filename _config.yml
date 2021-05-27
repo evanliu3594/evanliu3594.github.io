@@ -102,7 +102,4 @@ theme: Academia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-- type: git
-  # 下方的gh_token会被.travis.yml中sed命令替换
-  repo: https://Travis@github.com/SylvesterLi/HiTravi.git
-  branch: master
+  - type: ""

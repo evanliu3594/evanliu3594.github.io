@@ -10,10 +10,7 @@ cache:
     - node_modules
 
 before_install:
-  - npm install -g hexo-cli 
-
-
-  
+  - npm install -g hexo-cli   
 
 # S: Build Lifecycle
 install:
@@ -32,14 +29,3 @@ deploy:
   on:
     branch: master
   local-dir: public
-
-after_script:
-#  - cd ./public
-#  - git init
-  - git config user.name "evanliu3594"
-  - git config user.email "yogi3594@gmail.com"
-#  - git add .
-#  - git commit -m "Update docs"
-#  - git push --force --quiet "${Travis}@${GH_REF}" master:master
-  - sed -i "s/Travis/${Travis}/g" ./_config.yml
-  - hexo deploy
