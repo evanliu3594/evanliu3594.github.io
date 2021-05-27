@@ -1,9 +1,9 @@
 favicon: /img/favicon.png
 # Change to your profile picture
-avatar: /img/avatar.jpg
+avatar: /img/BBboy.jpg
 # if author sets in hexo_config, this string doesn't work
-author: 'Jason'
-author_bio: 'Your biography can be writed down here.'
+author: 'Yifan liu | 刘逸凡'
+author_bio: 'PhD. Candidate of NJU'
 
 since: 2020
 
@@ -13,7 +13,7 @@ since: 2020
 menu:
   Publications: /#Publications
   About: /
-  Blog: https://phower.me
+  Blog: /
 
 # flink picture will load if avator link calls on error
 loading_bg:
@@ -33,7 +33,7 @@ social_links:
   fab fa-weibo: /
   fab fa-weixin: /
   fab fa-qq: /
-  fas fa-envelope: / #E-mail
+  fas fa-envelope: /yifan.liu@smail.nju.edu.cn #E-mail
   fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
