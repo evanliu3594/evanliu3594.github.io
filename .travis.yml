@@ -1,0 +1,45 @@
+sudo: false
+language: node_js
+node_js: stable
+branches:
+  only:
+    - master # build master branch only
+
+cache:
+  directories:
+    - node_modules
+
+before_install:
+  - npm install -g hexo-cli 
+
+
+  
+
+# S: Build Lifecycle
+install:
+  - npm install
+  - npm install hexo-deployer-git hexo-renderer-pug hexo-renderer-stylus --save
+
+script:
+  - hexo clean
+  - hexo generate
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: true
+  on:
+    branch: master
+  local-dir: public
+
+after_script:
+#  - cd ./public
+#  - git init
+  - git config user.name "evanliu3594"
+  - git config user.email "yogi3594@gmail.com"
+#  - git add .
+#  - git commit -m "Update docs"
+#  - git push --force --quiet "${Travis}@${GH_REF}" master:master
+  - sed -i "s/Travis/${Travis}/g" ./_config.yml
+  - hexo deploy
