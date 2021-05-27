@@ -14,7 +14,8 @@ before_install:
 # S: Build Lifecycle
 install:
   - npm install
-  - npm install hexo-deployer-git hexo-renderer-pug hexo-renderer-stylus --save
+  - npm install hexo-deployer-git --save
+  - npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 script:
   - hexo clean
