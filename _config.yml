@@ -74,7 +74,7 @@ plainwhite:
 
   navigation:
     - title: Blog
-      url: "/blog"
+      url: "/_posts"
     - title: Publications
       url: "/Publications/"
     - title: About
@@ -106,7 +106,7 @@ plainwhite:
   # If you want to link only specific pages in your header, uncomment
   # this and add the path to the pages in order as they should show up
   header_pages:
-    - /JustAnotherTest.md
+    - "/JustAnotherTest.md"
 
 
 
