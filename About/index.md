@@ -18,17 +18,17 @@ On this site, I’m going to share my up-to-date learning, and coding knowledge.
 
 # Education Experience:
 
-> #### Nanjing University   [Sep 2017 ~ Now]
->
-> Doctor Candidate of Environmental Planning and Management
->
-> Advisor : [Haikun Wang]
+### Nanjing University, Sep 2017 ~ Now
 
->#### Anhui University [Sep 2012 ~ July 2016]
->
-> Bachelor Degree of Environmental Science
->
-> Chair of the [Computer-fan Association of Anhui University] 
+Doctor Candidate of Environmental Planning and Management
+
+Advisor : [Haikun Wang]
+
+### Anhui University, Sep 2012 ~ July 2016
+
+Bachelor Degree of Environmental Science
+
+Chair of the [Computer-fan Association of Anhui University] 
 
 # Research Skills:
 Statistical analysis: [R], [Python], [Origin];
