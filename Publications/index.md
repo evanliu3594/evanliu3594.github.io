@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 **Liu Y.**, Zhu G., Zhao Z., Sabel C.E., Ma Z., Jiao Z., He X., Zhao J.; Wang H.*, Population aging might mask the health benefit from China’s 2013 Clean Air Action. Atmospheric Environment, 2021, under review.
 
 Zhu, G.;  Hu, W.;  **Liu, Y.**;  Cao, J.;  Ma, Z.;  Deng, Y.;  Sabel, C. E.; Wang, H., Health burdens of ambient PM2.5 pollution across Chinese cities during 2006–2015. Journal of Environmental Management 2019, 243, 250-256.

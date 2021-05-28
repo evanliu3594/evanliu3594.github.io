@@ -1,3 +1,8 @@
+---
+layout: home
+---
+
+# Self introducion
 
 Hi! This is Yifan LIU, Good to see you!
 
