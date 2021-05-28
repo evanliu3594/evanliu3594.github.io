@@ -63,8 +63,19 @@ plainwhite:
   name: Yifan LIU
   tagline: PhD. Candidate.
   date_format: "%b %-d, %Y"
+  sitemap: true
+  show_excerpts: true
+  dark_mode: true
+  search: true
+  html_lang: "en"
+  portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+
+  sass:
+    sass_dir: _sass
 
   navigation:
+    - title: Blog
+      url: "/_posts/"
     - title: Publications
       url: "/Publications/"
     - title: About
@@ -92,21 +103,11 @@ plainwhite:
     gitlab: https://git.nju.edu.cn/yifan.liu
     email: yifan.liu@smail.nju.edu.cn
 
-  portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
   
   # If you want to link only specific pages in your header, uncomment
   # this and add the path to the pages in order as they should show up
   header_pages:
     - /JustAnotherTest.md
 
-  sitemap: true
-
-  show_excerpts: true
-
-  dark_mode: true
-
-  search: true
-
-  html_lang: "en"
 
 
