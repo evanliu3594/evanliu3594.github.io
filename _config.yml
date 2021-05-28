@@ -57,20 +57,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+sass:
+  sass_dir: _sass
 
 plainwhite:
   name: Yifan LIU
   tagline: PhD. Candidate.
   date_format: "%b %-d, %Y"
-  sitemap: true
-  show_excerpts: true
-  dark_mode: true
   search: true
+  sitemap: true
+  dark_mode: true
+  show_excerpts: true
   html_lang: "en"
   portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
 
-  sass:
-    sass_dir: _sass
 
   navigation:
     - title: Blog
@@ -99,7 +99,7 @@ plainwhite:
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
-    gitlab: https://git.nju.edu.cn/yifan.liu
+    https://git.nju.edu.cn/yifan.liu
     email: yifan.liu@smail.nju.edu.cn
 
   
