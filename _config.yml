@@ -74,7 +74,7 @@ plainwhite:
 
   navigation:
     - title: Blog
-      url: "/_posts"
+      url: "/blog"
     - title: Publications
       url: "/Publications/"
     - title: About
