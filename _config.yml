@@ -71,8 +71,6 @@ plainwhite:
 
 
   navigation:
-    - title: Blog
-      url: "/blog"
     - title: Publications
       url: "/Publications/"
     - title: About
