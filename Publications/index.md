@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 **Liu Y.**, Zhu G., Zhao Z., Sabel C.E., Ma Z., Jiao Z., He X., Zhao J.; Wang H.*, Population aging might mask the health benefit from China’s 2013 Clean Air Action. Atmospheric Environment, 2021, under review.
