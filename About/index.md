@@ -18,28 +18,34 @@ On this site, I’m going to share my up-to-date learning, and coding knowledge.
 
 # Education Experience:
 
-## Nanjing University   [Sep 2017 ~ Now]
+> #### Nanjing University   [Sep 2017 ~ Now]
+>
+> Doctor Candidate of Environmental Planning and Management
+>
+> Advisor : [Haikun Wang]
 
-Doctor Candidate of Environmental Planning and Management
-
-Supervisor : [Haikun Wang]
-
-## Anhui University [Sep 2012 ~ July 2016]
-
-Bachelor Degree of Environmental Science
-
-Chair of the [Computer-fan Association of Anhui University] 
+>#### Anhui University [Sep 2012 ~ July 2016]
+>
+> Bachelor Degree of Environmental Science
+>
+> Chair of the [Computer-fan Association of Anhui University] 
 
 # Research Skills:
-Statistical analysis: R, Python, Origin;
+Statistical analysis: [R], [Python], [Origin];
 
-Data processing, and plotting: R, Python, MySQL;
+Data processing, and plotting: [R], [Python], [MySQL];
 
-Spatial data processing and analysis: R, ArcGIS;
+Spatial data processing and analysis: [R], [ArcGIS];
 
-Air pollution concentration simulations: GEOS-Chem.
+Air pollution concentration simulations: [GEOS-Chem].
 
+[R]:https://cran.r-project.org
+[Python]:https://www.python.org
+[Origin]:https://www.origin.com
+[MySQL]:https://www.mysql.com
+[GEOS-Chem]:http://acmg.seas.harvard.edu/geos/
+[ArcGIS]:https://www.arcgis.com
 [Haikun Wang]: https://as.nju.edu.cn/c3/69/c11339a443241/page.htm
 [Computer-fan Association of Anhui University]: https://baike.baidu.com/item/%E5%AE%89%E5%BE%BD%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A/419094?fr=aladdin
 
-!['Nanjing University'](/About/NJU.light.jpg )
+[!['Nanjing University'](/About/NJU.light.jpg )](https://www.nju.edu.cn)
